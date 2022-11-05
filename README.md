@@ -1,15 +1,17 @@
 # billing-system
 
-<img src="images/flow.jpeg">     
+<img src="images/flow.png">     
 
 ## Processor
 The processor
+
+
+<img src="images/architecture.png">
 
 ## Billing system
 The billing system 
 	
 ## Setup
-To run this project, install it locally using npm:
 
 * To run the processor:
 
@@ -26,3 +28,6 @@ python billing/billing_system.py
 ```console
 python main.py
 ```
+
+
+<img src="images/example.png">
