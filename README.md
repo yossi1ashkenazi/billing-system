@@ -6,7 +6,7 @@
 The processor
 
 
-<img src="images/architecture.png">
+<img src="images/arch.png">
 
 ## Billing system
 The billing system 
