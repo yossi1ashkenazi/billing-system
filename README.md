@@ -17,7 +17,9 @@ the system architecture:
 ## Processor
 the processor supports 2 functions:
 * perform_transaction - This call returns a transaction_id (random number betweem 10000-99999)
+
 <br/>
+
 *  download_report - 
 Downloads a daily report of transaction results. It contains info about transactions from the last 5 days.
 
