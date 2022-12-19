@@ -1,7 +1,7 @@
 # BANK system
 
 
-A personal project I created. This project is a complete billing system, using PostgreSQL and flask HTTP serveres . <br/>
+A personal project I created. This project is a complete billing system, using PostgreSQL and flask HTTP serveres. <br/>
 The system credits the customer with the amount.<br/>
 In the following 12 weeks, the system performs debits of amount/12 once a week.<br/>
 A failed debit is moved to the end of the repayment plan (a week from the last payment).<br/>
